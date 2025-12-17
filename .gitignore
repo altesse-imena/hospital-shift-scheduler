@@ -1,0 +1,40 @@
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Java
+java/bin/
+java/build/
+java/out/
+java/target/
+java/*.class
+java/*.jar
+java/*.dat
+
+# C# / .NET
+csharp/bin/
+csharp/obj/
+csharp/*.user
+csharp/*.suo
+csharp/*.log
+csharp/.vs/
+csharp/packages/
+csharp/*.dat
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
