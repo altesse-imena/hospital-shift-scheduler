@@ -92,10 +92,10 @@ We need a program that shows:
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone <https://github.com/altesse-imena/hospital-shift-scheduler.git>
 cd hospital-shift-scheduler
 
-# No pip install - uses only std lib
+# No pip install - uses only standard lib
 ```
 
 ---
