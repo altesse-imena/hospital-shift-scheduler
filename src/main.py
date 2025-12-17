@@ -2,7 +2,6 @@ from staff import Staff
 from shift import Shift
 from schedule_manager import ScheduleManager
 from ScheduleExceptions import SchedulingException 
-from ParallelValidator import ParallelValidator
 
 def load_sample_data():
     staff_list = [
